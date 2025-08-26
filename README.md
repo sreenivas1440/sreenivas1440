@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm SREENIVAS
+🎓 Computer Science graduate on a mission to evolve into a  AI Engineer.   
+🧠 A curious builder training my neuroplasticity through NLP, Speech, and ML.
 
-<!--
-**sreenivas1440/sreenivas1440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 🧠 Exploring the frontiers of **NLP & Speech**. (AI/ML/DL)    
+- 🔎 Love to **crack AI from both code & philosophy**.  
+- 💬 Always up for deep **discussions, debates, and problem-solving** around AI.  
+- 🌍 On a mission to make **AI accessible, understandable, and impactful** for everyone.  
 
-Here are some ideas to get you started:
+✨ Let’s connect & build the future of AI together!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
