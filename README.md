@@ -4,7 +4,7 @@
 
 ## 🚀 About Me  
 - 🧠 Exploring the frontiers of **NLP & Speech**. (AI/ML/DL)    
-- 🔎 Love to **crack AI from both code & philosophy**.  
+- 🔎 I'm here to crack AI both technically and philosophically.  
 - 💬 Always up for deep **discussions, debates, and problem-solving** around AI.  
 - 🌍 On a mission to make **AI accessible, understandable, and impactful** for everyone.  
 
