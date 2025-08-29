@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm SREENIVAS
 🎓 Computer Science graduate on a mission to evolve into a  Computer Science Engineer.   
-🧠 A curious builder training my neuroplasticity through NLP, Speech, and ML.
+🧠 A curious builder training my neuroplasticity through NLP, Speech, and DL.
 
 ## 🚀 About Me  
 - 🧠 Exploring the frontiers of **NLP & Speech**. (AI/ML/DL)    
